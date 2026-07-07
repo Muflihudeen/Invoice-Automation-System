@@ -1,0 +1,2 @@
+invoice_number,vendor_name,customer_name,invoice_date,due_date,tax_amount,total_amount,currency,payment_status,processing_date
+INV001,ABCTechnologies,JohnDoe,01/07/2026,10/07/2026,500.0,5500.0,NGN,Pending,2026-07-05 16:50:27.642696

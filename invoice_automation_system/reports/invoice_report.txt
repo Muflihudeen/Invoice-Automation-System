@@ -1,0 +1,8 @@
+SMART INVOICE REPORT
+========================================
+
+Generated: 2026-07-07 15:55:44.450593
+
+Total Invoices: 1
+Pending Payments: 1
+Total Invoice Amount: 5500.0
